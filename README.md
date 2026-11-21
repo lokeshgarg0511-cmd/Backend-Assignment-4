@@ -446,3 +446,26 @@ Console output example:
 - [x] Invalid MongoDB ObjectIds caught and returned with `400 Bad Request`.
 - [x] Full error handling middleware preventing uncaught crashes.
 
+# Postman-POST-singup
+<img width="1535" height="807" alt="ecda90e8-c6b1-448a-9eb3-2589e88e583b" src="https://github.com/user-attachments/assets/216411b7-ac31-4ca7-8d4f-abd8f9864b24" />
+
+# Postman-POST-login
+<img width="1534" height="787" alt="9bcdd62c-ea3b-4c04-86fe-80fadaec3f31" src="https://github.com/user-attachments/assets/d2c0159b-bae4-4fab-9816-8a6aab6ad011" />
+
+# Postman-GET-notes
+<img width="1528" height="807" alt="176042c8-8e40-4bb3-9668-5f23fe4e950b" src="https://github.com/user-attachments/assets/44b0ca39-5c5a-457b-9791-7c23913a4967" />
+
+# Postman-POST-notes
+<img width="1535" height="791" alt="7c24ad9e-c461-4dfc-9115-6717b393bf1a" src="https://github.com/user-attachments/assets/59a2a19f-845f-461c-b113-e744d54d42b8" />
+
+# Postman-GET-notes-:id 
+<img width="1535" height="791" alt="7c24ad9e-c461-4dfc-9115-6717b393bf1a" src="https://github.com/user-attachments/assets/8460608b-61b8-4c86-b450-e624f30ffaca" />
+
+# Terminal Running
+<img width="671" height="330" alt="5ba650df-f252-4528-8390-5b6914ddb0fd" src="https://github.com/user-attachments/assets/caa8a803-57e5-4be0-a0fc-270d8c524854" />
+
+
+
+
+
+
